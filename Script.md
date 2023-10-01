@@ -130,4 +130,10 @@ while true do
     fireclickdetector(workspace.Button.Skill.SK123.ClickDetector)
     fireclickdetector(workspace.Button.Skill.SK124.ClickDetector)
     fireclickdetector(workspace.Button.Skill.SK125.ClickDetector)
+    fireclickdetector(workspace.Button.Skill.SK12.5.ClickDetector)
+    fireclickdetector(workspace.Button.Skill.SK40.5.ClickDetector)
+    fireclickdetector(workspace.Button.Skill.SK52.5.ClickDetector)
+    fireclickdetector(workspace.Button.Skill.SK65.5.ClickDetector)
+    fireclickdetector(workspace.Button.Skill.SK88.5.ClickDetector)
+
 end
