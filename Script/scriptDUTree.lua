@@ -1,4 +1,3 @@
-workspace.Unlock.SK100.Cylinder.ClickDetector.MaxActivationDistance = 9999999999999999999999999999999999999999
 while true do
     wait()
     fireclickdetector(workspace.Unlock.SK100.Cylinder.ClickDetector)
